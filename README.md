@@ -11,4 +11,7 @@ Users will be able to create a profile on the website which includes some inform
 
 ## Documentation
 
+- [Database schema](documentation/schema.md)
+- [Manual](documentation/guide.md)
+
 ## Installation
