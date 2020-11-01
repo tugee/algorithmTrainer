@@ -4,13 +4,9 @@ AlgoTrainer is a web application created in Flask meant for practicing and discu
 
 ## Heroku
 
-## Functionality
-Users are able to solve pre-set programming puzzles, view their solutions and submit posts discussing the problems. 
-AlgoTrainer has a rating system (upvotes and downvotes) for both the problems and the posts.
-Users will be able to create a profile on the website which includes some information on how many problems they have solved and links to the posts that they have submitted. 
 
 ## Documentation
-
+- [Specification](documentation/specs.md)
 - [Database schema](documentation/schema.md)
 - [Manual](documentation/guide.md)
 
